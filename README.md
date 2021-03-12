@@ -1,2 +1,4 @@
-# bellaBro
-Penso che non ci sia niente di così esorbitante da vedere, eddaje
+Presenti in questa repository:
+Alexa
+newGame
+Space Invaders
